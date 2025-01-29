@@ -1,0 +1,2 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+AGENT_JUDICIAIRE	Statut_Agent	NNR	Stattut_Agent	ATTENTION : la rubrique Stattut_Agent a pour nouveau nom Statut_Agent

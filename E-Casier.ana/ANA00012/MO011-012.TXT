@@ -1,0 +1,7 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+CASIER_JUDICIAIRE		TAR	137	nouvelle taille enregistrement : 137
+CASIER_JUDICIAIRE		IDE-*		fichier sans identifiant
+CASIER_JUDICIAIRE	Code_Casier	NNR	Id_Casier	ATTENTION : la clé Id_Casier a pour nouveau nom Code_Casier
+CASIER_JUDICIAIRE	Code_Casier	CNW	Entier sur 4 octets$Identifiant automatique (4 octets)	la rubrique Code_Casier a pour nouveau type Entier sur 4 octets
+CASIER_JUDICIAIRE	Id_Citoyen	RUB-		la clé Id_Citoyen est supprimée
+CITOYEN_CASIER_JUDICIAIRE	Code_Casier	NNR	Id_Casier	ATTENTION : la clé Id_Casier a pour nouveau nom Code_Casier

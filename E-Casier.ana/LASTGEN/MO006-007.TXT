@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+TRIBUNAL_CITOYEN		NFI		nouveau fichier
+Décision_TRIBUNAL_CITOYEN		NWL	TRIBUNAL (Code_Tribunal) et TRIBUNAL_CITOYEN (Code_Tribunal)	Nouvelle liaison entre les fichiers TRIBUNAL (Code_Tribunal) et TRIBUNAL_CITOYEN (Code_Tribunal)
+Contrainte_CITOYEN_TRIBUNAL		NWL	CITOYEN (Code_Citoyen) et TRIBUNAL_CITOYEN (Code_Citoyen)	Nouvelle liaison entre les fichiers CITOYEN (Code_Citoyen) et TRIBUNAL_CITOYEN (Code_Citoyen)

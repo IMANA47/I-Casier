@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+CASIER_JUDICIAIRE		TAR	188	nouvelle taille enregistrement : 188
+CASIER_JUDICIAIRE	Détails_Infraction	RUB+		Détails_Infraction est une nouvelle rubrique

@@ -1,0 +1,6 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+CITOYEN		TAR	482	nouvelle taille enregistrement : 482
+CITOYEN	Statut	RUB+		Statut est une nouvelle rubrique
+CITOYEN	Email	RUB+		Email est une nouvelle rubrique
+UTILISATEUR		FIC-	UTILISATEUR	Fichier supprimé UTILISATEUR
+AUDITION		FIC-	AUDITION	Fichier supprimé AUDITION

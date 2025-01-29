@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+INFRACTION	Code_Infraction	NNR	Id_Infraction	ATTENTION : la clé Id_Infraction a pour nouveau nom Code_Infraction
+INFRACTION_CITOYEN	Code_Infraction	NNR	Id_Infraction	ATTENTION : la clé Id_Infraction a pour nouveau nom Code_Infraction
