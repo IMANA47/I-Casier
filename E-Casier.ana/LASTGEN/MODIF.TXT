@@ -1,3 +1,4 @@
-//MO013-014.TXT ANA00013 TO ANA00014
-CONDAMNATION		NFI		nouveau fichier
-AUDIENCE		NFI		nouveau fichier
+//MO014-015.TXT ANA00014 TO ANA00015
+CONDAMNATION		TAR	226	nouvelle taille enregistrement : 226
+CONDAMNATION	Cause	RUB+		Cause est une nouvelle rubrique
+CONDAMNATION	Type_Condamnation	RUB+		Type_Condamnation est une nouvelle rubrique
